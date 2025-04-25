@@ -3,7 +3,7 @@
 A responsive website focused on Dota 2 professional meta strategies, built as a practice project for responsive web design techniques.
 
 ## Demo
-![Live Demo](https://euphonious-sunburst-288cd7.netlify.app)
+[Live Demo](https://euphonious-sunburst-288cd7.netlify.app)
 
 ![Dota 2 Pro Meta Screenshot](images/screenshot.png)
 
